@@ -1,3 +1,7 @@
+def super_function():
+    print('Я Кузьмин Пафнутий')
+
+
 def main():
     print('My first git program')
     print('And I change it every day')
