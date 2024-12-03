@@ -1,5 +1,6 @@
 def super_function():
     print('Я Кузьмин Пафнутий')
+    print('Изменил супер функцию')
 
 
 def main():
